@@ -12,7 +12,7 @@ import java.util.Scanner;
  * for the match to the user's card.
  *
  * @author srinivsi
- * @modifier Gagandeep Kaur
+ * @modifier GagandeepKaur
  * Student Number: 991850039
  */
 public class CardTrick {
